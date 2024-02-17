@@ -1,2 +1,2 @@
 # Vstplugin
-My very first project using c++ for a audio vst plugin design.
+My very first project using c++ for an audio vst plugin design.
